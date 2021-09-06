@@ -1,9 +1,0 @@
-Nombre: Francisco Javier Molina Rizo 
-
-Edad: 19
-
-Sexo: Masculino 
-
-Telefono: 83767090
-
-Fecha de Nacimiento: 9 de agosto de 2002
